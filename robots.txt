@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://simul813.github.io/deskops-digital/sitemap.xml
